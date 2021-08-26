@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Microsoft.ReportViewer.2012.Runtime</id>
+    <version>11.0.3452.0</version>
+    <title>Microsoft.ReportViewer.11.0.3452.0</title>
+    <authors>Fornax</authors>
+    <owners>Fornax</owners>
+    <projectUrl>http://www.microsoft.com/en-US/Download/details.aspx?id=35747</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Microsoft Report Viewer 2012 Runtime redistributable package DLL's for Web based applications</description>
+    <summary>Microsoft Report Viewer 2012 Runtime redistributable package DLL's for Web based applications</summary>
+    <tags>.net ReportViewer Microsoft VisualStudio</tags>
+  </metadata>
+</package>

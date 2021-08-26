@@ -1,0 +1,30 @@
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\bin\Debug\ResPosDAL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\bin\Debug\ResPosDAL.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosDAL\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\bin\Debug\ResPosDAL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\bin\Debug\ResPosDAL.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\obj\Debug\ResPosDAL.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\obj\Debug\ResPosDAL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosDAL\obj\Debug\ResPosDAL.pdb
+E:\Projects\ResPos\ResPosDAL\bin\Debug\ResPosDAL.dll
+E:\Projects\ResPos\ResPosDAL\bin\Debug\ResPosDAL.pdb
+E:\Projects\ResPos\ResPosDAL\bin\Debug\ResPosBO.dll
+E:\Projects\ResPos\ResPosDAL\bin\Debug\ResPosBO.pdb
+E:\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.dll
+E:\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.pdb
+D:\PersonalProjects\ResPos\ResPosDAL\bin\Debug\ResPosDAL.dll
+D:\PersonalProjects\ResPos\ResPosDAL\bin\Debug\ResPosDAL.pdb
+D:\PersonalProjects\ResPos\ResPosDAL\bin\Debug\ResPosBO.dll
+D:\PersonalProjects\ResPos\ResPosDAL\bin\Debug\ResPosBO.pdb
+D:\PersonalProjects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.dll
+D:\PersonalProjects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.pdb
+E:\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.csproj.CoreCompileInputs.cache
+E:\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.csproj.CopyComplete
+E:\Projects\ResPos\ResPosDAL\obj\Debug\ResPosDAL.csprojAssemblyReference.cache

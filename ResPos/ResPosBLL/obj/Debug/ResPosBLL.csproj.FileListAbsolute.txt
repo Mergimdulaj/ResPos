@@ -1,0 +1,38 @@
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBLL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBLL.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\bin\Debug\ResPosDAL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\bin\Debug\ResPosDAL.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\bin\Debug\ResPosBLL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\bin\Debug\ResPosBLL.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\bin\Debug\ResPosDAL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\bin\Debug\ResPosDAL.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\obj\Debug\ResPosBLL.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\obj\Debug\ResPosBLL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBLL\obj\Debug\ResPosBLL.pdb
+E:\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBLL.dll
+E:\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBLL.pdb
+E:\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBO.dll
+E:\Projects\ResPos\ResPosBLL\bin\Debug\ResPosDAL.dll
+E:\Projects\ResPos\ResPosBLL\bin\Debug\ResPosBO.pdb
+E:\Projects\ResPos\ResPosBLL\bin\Debug\ResPosDAL.pdb
+E:\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.dll
+E:\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.pdb
+D:\PersonalProjects\ResPos\ResPosBLL\bin\Debug\ResPosBLL.dll
+D:\PersonalProjects\ResPos\ResPosBLL\bin\Debug\ResPosBLL.pdb
+D:\PersonalProjects\ResPos\ResPosBLL\bin\Debug\ResPosBO.dll
+D:\PersonalProjects\ResPos\ResPosBLL\bin\Debug\ResPosDAL.dll
+D:\PersonalProjects\ResPos\ResPosBLL\bin\Debug\ResPosBO.pdb
+D:\PersonalProjects\ResPos\ResPosBLL\bin\Debug\ResPosDAL.pdb
+D:\PersonalProjects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.dll
+D:\PersonalProjects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.pdb
+E:\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.csprojAssemblyReference.cache
+E:\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.csproj.CoreCompileInputs.cache
+E:\Projects\ResPos\ResPosBLL\obj\Debug\ResPosBLL.csproj.CopyComplete

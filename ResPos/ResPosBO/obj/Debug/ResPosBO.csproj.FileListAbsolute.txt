@@ -1,0 +1,21 @@
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBO\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBO\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBO\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBO\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBO\obj\Debug\ResPosBO.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBO\obj\Debug\ResPosBO.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPosBO\obj\Debug\ResPosBO.pdb
+E:\Projects\ResPos\ResPosBO\bin\Debug\ResPosBO.dll
+E:\Projects\ResPos\ResPosBO\bin\Debug\ResPosBO.pdb
+E:\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.dll
+E:\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.pdb
+D:\PersonalProjects\ResPos\ResPosBO\bin\Debug\ResPosBO.dll
+D:\PersonalProjects\ResPos\ResPosBO\bin\Debug\ResPosBO.pdb
+D:\PersonalProjects\ResPos\ResPosBO\obj\Debug\ResPosBO.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\ResPos\ResPosBO\obj\Debug\ResPosBO.dll
+D:\PersonalProjects\ResPos\ResPosBO\obj\Debug\ResPosBO.pdb
+E:\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.csprojAssemblyReference.cache
+E:\Projects\ResPos\ResPosBO\obj\Debug\ResPosBO.csproj.CoreCompileInputs.cache

@@ -1,0 +1,192 @@
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPos.exe.config
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPos.exe
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPos.pdb
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.csprojResolveAssemblyReference.cache
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.Properties.Resources.resources
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.csproj.GenerateResource.Cache
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.exe
+c:\users\mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.pdb
+C:\Users\Mergim\Documents\Visual Studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.Register.resources
+C:\Users\Mergim\Documents\Visual Studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.Tables.resources
+C:\Users\Mergim\Documents\Visual Studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.Orders.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPosBLL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPosBLL.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPosDAL.dll
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\bin\Debug\ResPosDAL.pdb
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmLogin.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditCategory.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmCategories.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmMain.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Items.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmItems.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.New_Order.resources
+C:\Users\Mergim\documents\visual studio 2012\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Users.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPos.exe.config
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.exe
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPos.exe
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPos.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPosBLL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPosBO.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPosDAL.dll
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPosBLL.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPosBO.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\bin\Debug\ResPosDAL.pdb
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.csprojResolveAssemblyReference.cache
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Items.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Users.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmItems.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmLogin.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmAddEditCategory.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmCategories.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmMain.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.New_Order.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.Properties.Resources.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.Register.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.csproj.GenerateResource.Cache
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmPosTables.resources
+C:\Users\Mergim\Desktop\Tema\ResPos\ResPos\obj\Debug\ResPos.frmAddEditPosTables.resources
+E:\Projects\ResPos\ResPos\bin\Debug\ResPos.exe.config
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.exe
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.pdb
+E:\Projects\ResPos\ResPos\bin\Debug\ResPos.exe
+E:\Projects\ResPos\ResPos\bin\Debug\ResPos.pdb
+E:\Projects\ResPos\ResPos\bin\Debug\ResPosBLL.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ResPosBO.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ResPosDAL.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ResPosBLL.pdb
+E:\Projects\ResPos\ResPos\bin\Debug\ResPosBO.pdb
+E:\Projects\ResPos\ResPos\bin\Debug\ResPosDAL.pdb
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditPosTables.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmPosTables.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Items.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Users.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmItems.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmLogin.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditCategory.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmCategories.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmMain.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.Properties.Resources.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.csproj.GenerateResource.Cache
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmTax.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditTax.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmNewOrder.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmUsers.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmOQ.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmPin.resources
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.Web.XmlTransform.dll
+E:\Projects\ResPos\ResPos\bin\Debug\NuGet.Core.dll
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmReport.resources
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+E:\Projects\ResPos\ResPos\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\Projects\ResPos\ResPos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\Projects\ResPos\ResPos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPos.exe.config
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.exe
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.pdb
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPos.exe
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPos.pdb
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.SqlServer.Types.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\Microsoft.Web.XmlTransform.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\NuGet.Core.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPosBLL.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPosBO.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPosDAL.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPosBLL.pdb
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPosBO.pdb
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ResPosDAL.pdb
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.csprojResolveAssemblyReference.cache
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmPin.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditTax.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditPosTables.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmOQ.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmPosTables.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Items.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmAdd_Edit_Users.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmItems.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmLogin.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmAddEditCategory.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmCategories.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmMain.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmReport.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmTax.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmNewOrder.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmUsers.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.Properties.Resources.resources
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.csproj.GenerateResource.Cache
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\RdlCompile.cache
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\RdlCompile.compiled
+D:\PersonalProjects\ResPos\ResPos\obj\Debug\ResPos.frmDailyReport.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.frmDailyReport.resources
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.csprojAssemblyReference.cache
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.csproj.CoreCompileInputs.cache
+E:\Projects\ResPos\ResPos\obj\Debug\ResPos.csproj.CopyComplete

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="dsReport" targetNamespace="http://tempuri.org/dsReport.xsd" xmlns:mstns="http://tempuri.org/dsReport.xsd" xmlns="http://tempuri.org/dsReport.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop" attributeFormDefault="qualified" elementFormDefault="qualified">
+  <xs:annotation>
+    <xs:appinfo source="urn:schemas-microsoft-com:xml-msdatasource">
+      <DataSource DefaultConnectionIndex="0" FunctionsComponentName="QueriesTableAdapter" Modifier="AutoLayout, AnsiClass, Class, Public" SchemaSerializationMode="IncludeSchema" xmlns="urn:schemas-microsoft-com:xml-msdatasource">
+        <Connections />
+        <Tables />
+        <Sources />
+      </DataSource>
+    </xs:appinfo>
+  </xs:annotation>
+  <xs:element name="dsReport" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:EnableTableAdapterManager="true" msprop:Generator_DataSetName="dsReport" msprop:Generator_UserDSName="dsReport">
+    <xs:complexType>
+      <xs:choice minOccurs="0" maxOccurs="unbounded">
+        <xs:element name="dtOrders" msprop:Generator_TableClassName="dtOrdersDataTable" msprop:Generator_TableVarName="tabledtOrders" msprop:Generator_RowChangedName="dtOrdersRowChanged" msprop:Generator_TablePropName="dtOrders" msprop:Generator_RowDeletingName="dtOrdersRowDeleting" msprop:Generator_RowChangingName="dtOrdersRowChanging" msprop:Generator_RowEvHandlerName="dtOrdersRowChangeEventHandler" msprop:Generator_RowDeletedName="dtOrdersRowDeleted" msprop:Generator_RowClassName="dtOrdersRow" msprop:Generator_UserTableName="dtOrders" msprop:Generator_RowEvArgName="dtOrdersRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="Order_id" msprop:Generator_ColumnVarNameInTable="columnOrder_id" msprop:Generator_ColumnPropNameInRow="Order_id" msprop:Generator_ColumnPropNameInTable="Order_idColumn" msprop:Generator_UserColumnName="Order_id" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalPrice" msprop:Generator_ColumnVarNameInTable="columnTotalPrice" msprop:Generator_ColumnPropNameInRow="TotalPrice" msprop:Generator_ColumnPropNameInTable="TotalPriceColumn" msprop:Generator_UserColumnName="TotalPrice" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalTax" msprop:Generator_ColumnVarNameInTable="columnTotalTax" msprop:Generator_ColumnPropNameInRow="TotalTax" msprop:Generator_ColumnPropNameInTable="TotalTaxColumn" msprop:Generator_UserColumnName="TotalTax" type="xs:string" minOccurs="0" />
+              <xs:element name="User_id" msprop:Generator_ColumnVarNameInTable="columnUser_id" msprop:Generator_ColumnPropNameInRow="User_id" msprop:Generator_ColumnPropNameInTable="User_idColumn" msprop:Generator_UserColumnName="User_id" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="dtOrderDetails" msprop:Generator_TableClassName="dtOrderDetailsDataTable" msprop:Generator_TableVarName="tabledtOrderDetails" msprop:Generator_RowChangedName="dtOrderDetailsRowChanged" msprop:Generator_TablePropName="dtOrderDetails" msprop:Generator_RowDeletingName="dtOrderDetailsRowDeleting" msprop:Generator_RowChangingName="dtOrderDetailsRowChanging" msprop:Generator_RowEvHandlerName="dtOrderDetailsRowChangeEventHandler" msprop:Generator_RowDeletedName="dtOrderDetailsRowDeleted" msprop:Generator_RowClassName="dtOrderDetailsRow" msprop:Generator_UserTableName="dtOrderDetails" msprop:Generator_RowEvArgName="dtOrderDetailsRowChangeEvent">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="OrderDetails_id" msprop:Generator_ColumnVarNameInTable="columnOrderDetails_id" msprop:Generator_ColumnPropNameInRow="OrderDetails_id" msprop:Generator_ColumnPropNameInTable="OrderDetails_idColumn" msprop:Generator_UserColumnName="OrderDetails_id" type="xs:string" minOccurs="0" />
+              <xs:element name="Order_id" msprop:Generator_ColumnVarNameInTable="columnOrder_id" msprop:Generator_ColumnPropNameInRow="Order_id" msprop:Generator_ColumnPropNameInTable="Order_idColumn" msprop:Generator_UserColumnName="Order_id" type="xs:string" minOccurs="0" />
+              <xs:element name="ItemName" msprop:Generator_ColumnVarNameInTable="columnItemName" msprop:Generator_ColumnPropNameInRow="ItemName" msprop:Generator_ColumnPropNameInTable="ItemNameColumn" msprop:Generator_UserColumnName="ItemName" type="xs:string" minOccurs="0" />
+              <xs:element name="Quantity" msprop:Generator_ColumnVarNameInTable="columnQuantity" msprop:Generator_ColumnPropNameInRow="Quantity" msprop:Generator_ColumnPropNameInTable="QuantityColumn" msprop:Generator_UserColumnName="Quantity" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalTax" msprop:Generator_ColumnVarNameInTable="columnTotalTax" msprop:Generator_ColumnPropNameInRow="TotalTax" msprop:Generator_ColumnPropNameInTable="TotalTaxColumn" msprop:Generator_UserColumnName="TotalTax" type="xs:string" minOccurs="0" />
+              <xs:element name="TotalPrice" msprop:Generator_ColumnVarNameInTable="columnTotalPrice" msprop:Generator_ColumnPropNameInRow="TotalPrice" msprop:Generator_ColumnPropNameInTable="TotalPriceColumn" msprop:Generator_UserColumnName="TotalPrice" type="xs:string" minOccurs="0" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:choice>
+    </xs:complexType>
+  </xs:element>
+  <xs:annotation>
+    <xs:appinfo>
+      <msdata:Relationship name="dtOrders_dtOrderDetails" msdata:parent="dtOrders" msdata:child="dtOrderDetails" msdata:parentkey="Order_id" msdata:childkey="Order_id" msprop:Generator_UserChildTable="dtOrderDetails" msprop:Generator_ChildPropName="GetdtOrderDetailsRows" msprop:Generator_UserRelationName="dtOrders_dtOrderDetails" msprop:Generator_RelationVarName="relationdtOrders_dtOrderDetails" msprop:Generator_UserParentTable="dtOrders" msprop:Generator_ParentPropName="dtOrdersRow" />
+    </xs:appinfo>
+  </xs:annotation>
+</xs:schema>
